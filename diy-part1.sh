@@ -32,7 +32,7 @@ sed -i '/set luci.main.mediaurlbase=\/luci-static\/bootstrap/d' feeds/luci/theme
 sed -i 's/luci-theme-bootstrap/luci-theme-argon/g' feeds/luci/collections/luci/Makefile
 
 # 下载luci-app-argon-config
-https://github.com/jerrykuku/luci-app-argon-config.git package/lean/luci-app-argon-config
+git clone https://github.com/jerrykuku/luci-app-argon-config.git package/lean/luci-app-argon-config
 
 # passwall插件
 git clone https://github.com/xiaorouji/openwrt-passwall.git package/lean/luci-app-passwall
