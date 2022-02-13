@@ -31,5 +31,8 @@ git clone https://github.com/jerrykuku/luci-app-argon-config.git package/lean/lu
 # passwall插件
 git clone https://github.com/xiaorouji/openwrt-passwall.git package/lean/luci-app-passwall
 
-# 网络唤醒++
+# 网络唤醒++插件
 git clone https://github.com/sundaqiang/openwrt-packages/tree/master/luci-app-wolplus.git package/lean/luci-app-wolplus
+
+# 自编译系统更新插件
+git clone https://github.com/sundaqiang/openwrt-packages/tree/master/luci-app-easyupdate package/lean/luci-app-easyupdate
