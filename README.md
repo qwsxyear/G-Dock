@@ -1,4 +1,4 @@
-G-Dock自编译固件IPV6+PASSWALL+负载均衡+单线多拨+Argon主题
+G-Dock自编译固件IPV6+PASSWALL+负载均衡+单线多拨+Argon主题+简易更新+Wol唤醒+SoftetherVPN
 
 # Actions-OpenWrt
 
