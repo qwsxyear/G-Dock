@@ -33,3 +33,6 @@ git clone https://github.com/xiaorouji/openwrt-passwall.git package/lean/luci-ap
 
 # 网络唤醒++插件
 git clone https://github.com/sundaqiang/openwrt-packages.git package/lean/luci-app-wolplus
+
+#SoftetherVpn插件
+git clone https://github.com/openwrt/packages.git package/lean/net/softethervpn
