@@ -32,4 +32,4 @@ git clone https://github.com/jerrykuku/luci-app-argon-config.git package/lean/lu
 git clone https://github.com/xiaorouji/openwrt-passwall.git package/lean/luci-app-passwall
 
 # 网络唤醒++插件
-git clone https://github.com/sundaqiang/openwrt-packages.git package/lean/openwrt-packages/luci-app-wolplus
+git clone https://github.com/sundaqiang/openwrt-packages.git package/lean/luci-app-wolplus
