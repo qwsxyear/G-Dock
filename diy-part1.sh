@@ -28,9 +28,6 @@ git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/lea
 # 下载luci-app-argon-config
 git clone https://github.com/jerrykuku/luci-app-argon-config.git package/lean/luci-app-argon-config
 
-# passwall插件
-git clone https://github.com/xiaorouji/openwrt-passwall.git package/lean/luci-app-passwall
-
 # 网络唤醒++插件
 git clone https://github.com/sundaqiang/openwrt-packages.git package/lean/luci-app-wolplus
 
