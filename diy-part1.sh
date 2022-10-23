@@ -35,4 +35,7 @@ git clone https://github.com/xiaorouji/openwrt-passwall.git package/lean/luci-ap
 git clone https://github.com/sundaqiang/openwrt-packages.git package/lean/luci-app-wolplus
 
 # SoftetherVpn插件
-git clone https://github.com/openwrt/packages.git package/lean/net/softethervpn
+git clone https://github.com/openwrt/packages.git package/lean/softethervpn
+
+# iStore商店
+git clone https://github.com/linkease/istore.git package/lean/store
