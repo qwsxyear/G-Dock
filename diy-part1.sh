@@ -30,3 +30,9 @@ git clone https://github.com/jerrykuku/luci-app-argon-config.git package/lean/lu
 
 # 网络唤醒++插件
 git clone https://github.com/sundaqiang/openwrt-packages.git package/lean/luci-app-wolplus
+
+#iStore商店
+git clone https://github.com/kenzok8/openwrt-packages.git package/lean/luci-app-store
+
+#SoftEther_VPN
+git clone https://github.com/kenzok8/small-package.git package/lean/luci-app-softethervpn
