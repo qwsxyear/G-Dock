@@ -30,3 +30,7 @@ git clone https://github.com/jerrykuku/luci-app-argon-config.git package/lean/lu
 
 # 网络唤醒++插件
 git clone https://github.com/sundaqiang/openwrt-packages.git package/lean/luci-app-wolplus
+
+git clone https://github.com/kenzok8/openwrt-packages.git package/openwrt-packages
+
+git clone https://github.com/kenzok8/small.git package/openwrt-small
