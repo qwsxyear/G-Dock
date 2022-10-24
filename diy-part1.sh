@@ -32,4 +32,4 @@ git clone https://github.com/jerrykuku/luci-app-argon-config.git package/lean/lu
 git clone https://github.com/sundaqiang/openwrt-packages.git package/lean/luci-app-wolplus
 
 # SoftetherVpn插件
-git clone https://github.com/openwrt/packages.git package/lean/softethervpn
+git clone https://github.com/openwrt/packages.git package
