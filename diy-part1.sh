@@ -23,13 +23,10 @@ rm -rf package/lean/luci-theme-material
 rm -rf package/lean/luci-theme-netgear
 
 # 下载主题luci-theme-argon
-#git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/lean/luci-theme-argon
+git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/lean/luci-theme-argon
 
 # 下载luci-app-argon-config
-#git clone https://github.com/jerrykuku/luci-app-argon-config.git package/lean/luci-app-argon-config
+git clone https://github.com/jerrykuku/luci-app-argon-config.git package/lean/luci-app-argon-config
 
 # 网络唤醒++插件
-#git clone https://github.com/sundaqiang/openwrt-packages.git package/lean/luci-app-wolplus
-
-#iStore商店
-#git clone https://github.com/kenzok8/openwrt-packages.git package/lean/luci-app-store
+git clone https://github.com/sundaqiang/openwrt-packages.git package/lean/luci-app-wolplus
