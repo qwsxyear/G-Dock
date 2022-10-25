@@ -33,6 +33,3 @@ git clone https://github.com/sundaqiang/openwrt-packages.git package/lean/luci-a
 
 #iStore商店
 git clone https://github.com/kenzok8/openwrt-packages.git package/lean/luci-app-store
-
-#SoftEther_VPN
-git clone https://github.com/kenzok8/small-package.git package/lean/luci-app-softethervpn
