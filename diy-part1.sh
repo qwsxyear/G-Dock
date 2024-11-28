@@ -29,4 +29,4 @@ git clone https://github.com/jerrykuku/luci-theme-argon.git package/lean/luci-th
 git clone https://github.com/jerrykuku/luci-app-argon-config.git package/lean/luci-app-argon-config
 
 # 网络唤醒++插件
-git clone https://github.com/sundaqiang/openwrt-packages.git package/lean/luci-app-wolplus
+# git clone https://github.com/sundaqiang/openwrt-packages.git package/lean/luci-app-wolplus
